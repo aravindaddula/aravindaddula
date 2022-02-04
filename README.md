@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google ,Youtube and Stack Overflow 😪
+⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google ,Youtube,FreeCodeCamp.org, Scrimba and Stack Overflow 😪
 
  [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 ___

@@ -30,18 +30,18 @@ ___
 
  ## 🌐 Connect me -
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/shreyansh0322)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/AravindAddula)
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/aravindaddula)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aravindadddula/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:aravindaddula@gmail.com)
 ___
 
                                                                                                                                                      
- <img align="centre" src="https://github-readme-stats.vercel.app/api?username=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
+ <img align="centre" src="" alt="" />
  
- <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
+ <img align="centre" src="" alt="" />
  
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghShreyansh&layout=compact&hide=html&theme=blue-green" alt="SinghShreyansh" />
+<img align="centre" src="" alt="" />
                                                                                                                                                   
  
 

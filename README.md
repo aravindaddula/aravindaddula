@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Shreyansh Singh <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey, I'm Aravind Addula <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 
->I'm *Shreyansh* from **India** ,a 20 year old tech enthusiast. I do content on Development. I really enjoy learning languages and frameworks like React ,as well as work in Frontend💻.
+>I'm *Aravind* from **India** ,Computer Science Engineer by education and tech enthusiast by nature. I do content on Development. I really enjoy learning languages and frameworks like React,Node,Express,MongoDB ,as well as work in Frontend💻.
 
-👩‍💻 Nowadays, I’m learning Python and creating projects on Reactjs.
+👩‍💻 Nowadays, I’m learning javascript and creating projects on Reactjs.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 

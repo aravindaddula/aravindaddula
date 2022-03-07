@@ -2,7 +2,7 @@
 
 >I'm *Aravind* from **India** ,Computer Science Engineer by education and tech enthusiast by nature. I do content on Development. I really enjoy learning languages and frameworks like React,Node,Express,MongoDB ,as well as work in Frontend💻.
 
-👩‍💻 Nowadays, I’m learning javascript and creating projects on Reactjs.
+👩‍💻 I’m learning javascript and creating projects on Reactjs.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 

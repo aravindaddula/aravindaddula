@@ -1,3 +1,4 @@
+/*
 <h1 align="center">Hey, I'm Aravind Addula <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 
 >I'm *Aravind* from **India** ,Computer Science Engineer by education and tech enthusiast by nature. I do content on Development. I really enjoy learning languages and frameworks like React,Node,Express,MongoDB ,as well as work in Frontend💻.
@@ -41,13 +42,5 @@ ___
  
  <img align="centre" src="" alt="" />
  
-<img align="centre" src="" alt="" />
-                                                                                                                                                  
- 
-
-
-
-
-
-
-
+<img align="centre" src="" alt="" />       
+*/
